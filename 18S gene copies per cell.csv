@@ -1,4 +1,4 @@
-genus,strain,Ct.SYBR,gene copies in 1µL template,total gene copies,total cell numbers,gene copies per cell,ESD (µm),isolate average,average genus,ESD_isolate,ESD_genus
+genus,strain,Ct.SYBR,gene copies in 1µL template,total gene copies,total cell numbers,gene copies per cell,ESD (µm),isolate average (copies per cell), genus average (copies per cell), ESD_isolate, ESD_genus
 Florenciella,UA-265-01,21.01,1.49E+05,1.86E+07,9.31E+06,2,3.8,2.4,1.5,3.8,3.6
 Florenciella,UA-265-01,20.21,2.66E+05,3.32E+07,9.31E+06,3.6,3.8,,,,
 Florenciella,UA-265-01,21.44,1.09E+05,3.93E+07,1.81E+07,2.2,3.8,,,,
